@@ -4,8 +4,7 @@
 }
 
 BODY {
-  background-image:'pngtree-mathematics-education-calculator-ruler-hand-drawn-background-image_340649.jpg' ;
-  //background-color: #224870;
+  background-color: #224870;
 }
 
 .container {
@@ -19,7 +18,7 @@ BODY {
   display: grid;
   grid-template-columns: repeat(4, 75px);
   grid-template-rows: 160px repeat(5, 75px);
-  background-color:white;
+  background-color:#7EDC8D;
   padding: 15px;
   border-radius: 31px;
   box-shadow: 15px 15px 0px 5px #00000090;
